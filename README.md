@@ -1,6 +1,6 @@
 # 《JAVA技术栈之后端架构技术图谱》
 
-#### 更新于2020.9.5
+#### 更新于2020.10.31
 
 ====================================================
 
@@ -52,6 +52,8 @@
 
 ###                     RocketMQ
 
+### KafKa
+
 
 
 # 数据库
@@ -67,8 +69,6 @@
 ### RPC框架
 
 ###                [RPC框架之Dubbo](http://luckylau.tech/tags/Dubbo/)
-
-###                RPC框架之SOFA-RPC
 
 
 
@@ -97,6 +97,20 @@
 ###         分布式配置中心
 
 ### [分布式配置中心之Apollo](https://github.com/Luckylau/easy-apollo)
+
+
+
+### 分布式链路追踪
+
+
+
+### SOFA系列
+
+### SOFA-RPC
+
+### SOFA-Blot
+
+### SOFA-Registry
 
 
 
