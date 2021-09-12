@@ -1,6 +1,6 @@
 # 《JAVA技术栈之后端架构技术图谱》
 
-#### 更新于2020.10.31
+#### 更新于2021.9.21
 
 ====================================================
 
@@ -70,6 +70,8 @@
 
 ###                [RPC框架之Dubbo](http://luckylau.tech/tags/Dubbo/)
 
+### RPC框架之SOFA-RPC
+
 
 
 ### 注册中心
@@ -77,6 +79,8 @@
 ###                   [注册中心之Zookeeper](http://luckylau.tech/tags/Zookeeper/)
 
 ###                   [注册中心之Nacos](http://luckylau.tech/tags/Nacos/)
+
+### 注册中心之SOFA-Registry
 
 ###                   注册中心之Eureka
 
@@ -87,8 +91,6 @@
 
 
 ###          [分布式事务](http://luckylau.tech/2018/03/12/分布式系统基础理论-2/)
-
-###                   分布式事务之SERVICECOMB-SAGA
 
 ###                   分布式事务之Fescar（Seata）
 
@@ -102,15 +104,9 @@
 
 ### 分布式链路追踪
 
+### SOFATracer
 
-
-### SOFA系列
-
-### SOFA-RPC
-
-### SOFA-Blot
-
-### SOFA-Registry
+### skywalking
 
 
 
@@ -118,7 +114,11 @@
 
 
 
-# [Netty](http://luckylau.tech/tags/Netty/)
+# 通信框架
+
+### [Netty](http://luckylau.tech/tags/Netty/)
+
+### SOFA-Blot
 
 
 
